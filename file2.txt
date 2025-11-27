@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 hi this is cat
+<<<<<<< HEAD
 good evenin g 
+<<<<<<< HEAD
 m bossdfd
 gdgrg
 <<<<<<< HEAD
@@ -11,3 +13,12 @@ hi this is catfcnu
 vjivjroivjrov
 >>>>>>> branch4
 >>>>>>> branch5
+=======
+m boss
+
+chairrr goddjddjdjd
+=======
+
+hellooooooo
+>>>>>>> branch2
+>>>>>>> branch3

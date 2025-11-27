@@ -1,6 +1,7 @@
 hi this is dog
 chair 
 <<<<<<< HEAD
+<<<<<<< HEAD
 fdff
 ok good 
 ggggg
@@ -12,3 +13,11 @@ frjvrivhriv
 >>>>>>> branch4
 >>>>>>> branch5
 gtemp gnifnifdifdj
+=======
+
+bag 
+
+kokok
+=======
+>>>>>>> branch2
+>>>>>>> branch3
