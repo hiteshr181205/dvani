@@ -1,3 +1,7 @@
 hi this is dog
 chair 
+<<<<<<< HEAD
 fdff
+=======
+frjvrivhriv
+>>>>>>> branch4

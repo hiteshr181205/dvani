@@ -1,4 +1,8 @@
 modakakaaaaaaaa
+<<<<<<< HEAD
 car 
 fan
 rtrtgr
+=======
+jnvjrnvkjrnv
+>>>>>>> branch4
