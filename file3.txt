@@ -1,5 +1,12 @@
 modakakaaaaaaaa
+<<<<<<< HEAD
 car 
 fan
 rtrtgr
+<<<<<<< HEAD
 gg
+=======
+=======
+jnvjrnvkjrnv
+>>>>>>> branch4
+>>>>>>> branch5

@@ -1,5 +1,14 @@
 keethdnanananan
 buke
+<<<<<<< HEAD
 knifergg
 rgrihgurhgr
+<<<<<<< HEAD
 ggg
+=======
+=======
+knifecar bike 
+fasy 
+vrjbvurhvirhvirjv
+>>>>>>> branch4
+>>>>>>> branch5

@@ -1,5 +1,13 @@
 hi this is dog
 chair 
+<<<<<<< HEAD
 fdff
 ok good 
 ggggg
+=======
+<<<<<<< HEAD
+fdff
+=======
+frjvrivhriv
+>>>>>>> branch4
+>>>>>>> branch5
