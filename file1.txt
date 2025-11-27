@@ -1,6 +1,9 @@
 hi this is dog
 chair 
+<<<<<<< HEAD
 
 bag 
 
 kokok
+=======
+>>>>>>> branch2

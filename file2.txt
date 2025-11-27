@@ -1,5 +1,10 @@
 hi this is cat
+<<<<<<< HEAD
 good evenin g 
 m boss
 
 chairrr goddjddjdjd
+=======
+
+hellooooooo
+>>>>>>> branch2
